@@ -14,4 +14,3 @@ The application does not transfer data to third parties, since no data is collec
 4. Changes to the Privacy Policy
 We reserve the right to update this Privacy Policy. Any changes will be posted on this page.
 
-If you have any questions, you can contact us by email: support@yourapp.com.
